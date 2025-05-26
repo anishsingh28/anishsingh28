@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on skynet.ai<br>🌱 I’m currently learning python , javascript <br>💬 Ask me about DSA , AI , LLM <br>  leetcode - https://leetcode.com/u/anishsing2005/
+🔭 I’m currently working on skynet.ai<br>🌱 I’m currently learning python , javascript <br>💬 Ask me about DSA , AI , LLM <br>  🌐leetcode - https://leetcode.com/u/anishsing2005/
 
 
 ## 🌐 Socials:
